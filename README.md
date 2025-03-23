@@ -1,3 +1,3 @@
 # Hello AR
 
-A test scene and intro to AR
+An intro to AR with a test scene

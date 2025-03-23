@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  a-scene {
+    width: 100vw;
+    height: 60vh;
+    display: block;
+    margin: auto;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+  }
+  
